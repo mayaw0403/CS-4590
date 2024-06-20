@@ -1,1 +1,1 @@
-# CS-4590
+This class explores the integration of audio in human-computer interaction (HCI), focusing on design, prototyping, and evaluation of auditory interfaces. Programming in Java is required, and no prior audio knowledge is necessary. Key topics include sound perception, auditory interfaces, and current research in wearable, AR/VR, and IoT audio applications.
